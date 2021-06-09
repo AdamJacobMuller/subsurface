@@ -18,6 +18,13 @@
   <geo cat='5' origin='0' value='Pointe Blanche, Upper Princes Quarter'/>
   <geo cat='6' origin='3' value='Pointe Blanche, Upper Princes Quarter'/>
 </site>
+<site uuid='bdc459fc' name='Fish Bowl' gps='17.992366 -63.044271'>
+  <geo cat='1' origin='0' value='Caribbean Sea'/>
+  <geo cat='2' origin='0' value='Sint Maarten'/>
+  <geo cat='3' origin='0'/>
+  <geo cat='5' origin='0' value='Pointe Blanche, Upper Princes Quarter'/>
+  <geo cat='6' origin='3' value='Pointe Blanche, Upper Princes Quarter'/>
+</site>
 </divesites>
 <dives>
 <dive number='1' otu='51' cns='153%' date='2018-05-22' time='14:57:28' duration='28:10 min'>
@@ -8273,7 +8280,9 @@
   <sample time='12:14 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive otu='6' cns='2%' date='2021-06-01' time='10:52:01' duration='21:32 min'>
+<dive otu='6' cns='2%' divesiteid='bdc459fc' date='2021-06-01' time='10:52:01' duration='21:32 min'>
+  <divemaster>Brett</divemaster>
+  <buddy>Diane</buddy>
   <cylinder description='unknown' o2='32.0%' end='100.801 bar' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='4bec3fa1'>
   <depth max='16.337 m' mean='8.617 m' />
@@ -9350,7 +9359,9 @@
   <sample time='35:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive otu='1' cns='2%' date='2021-06-01' time='12:36:51' duration='47:18 min'>
+<dive otu='1' cns='2%' divesiteid='51aca2c1' date='2021-06-01' time='12:36:51' duration='47:18 min'>
+  <divemaster>Brett</divemaster>
+  <buddy>Diane</buddy>
   <cylinder description='unknown' o2='32.0%' end='92.252 bar' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='3685aee7'>
   <depth max='7.681 m' mean='4.23 m' />
