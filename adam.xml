@@ -2947,6 +2947,7 @@
   <sample time='58:52 min' depth='0.0 m' />
   </divecomputer>
 </dive>
+<trip date='2020-02-18' time='11:25:11' location='Blue Grotto'>
 <dive sac='39.379 l/min' divesiteid='8a8e00ff' date='2020-02-18' time='11:25:11' duration='3:34 min'>
   <buddy>Diane</buddy>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='171.404 bar' />
@@ -4504,6 +4505,8 @@
   <sample time='2:20 min' depth='0.457 m' />
   </divecomputer>
 </dive>
+</trip>
+<trip date='2020-02-19' time='13:03:00' location='KP Hole Park'>
 <dive sac='31.770 l/min' divesiteid='eca46e1c' date='2020-02-19' time='13:03:00' duration='6:34 min'>
   <buddy>Diane, Sharon</buddy>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='33.784 bar' />
@@ -4807,6 +4810,8 @@
   <sample time='11:38 min' depth='0.488 m' />
   </divecomputer>
 </dive>
+</trip>
+<trip date='2020-08-08' time='10:40:46' location='Dutch Springs'>
 <dive number='5' sac='28.310 l/min' divesiteid='68c87bb4' date='2020-08-08' time='10:40:46' duration='18:32 min'>
   <buddy>Diane, Safet</buddy>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='138.033 bar' />
@@ -8293,6 +8298,8 @@
   <sample time='12:14 min' depth='0.0 m' />
   </divecomputer>
 </dive>
+</trip>
+<trip date='2021-06-01' time='10:52:01' location='Fish Bowl'>
 <dive sac='25.158 l/min' otu='6' cns='2%' divesiteid='bdc459fc' date='2021-06-01' time='10:52:01' duration='21:32 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Pam</buddy>
@@ -19007,5 +19014,6 @@
   <sample time='50:34 min' depth='0.0 m' />
   </divecomputer>
 </dive>
+</trip>
 </dives>
 </divelog>
