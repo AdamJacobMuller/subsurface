@@ -54,7 +54,7 @@
 </site>
 </divesites>
 <dives>
-<dive number='1' otu='51' cns='153%' date='2018-05-22' time='14:57:28' duration='28:10 min'>
+<dive number='1' tripflag='NOTRIP' invalid='1' otu='51' cns='153%' date='2018-05-22' time='14:57:28' duration='28:10 min'>
   <cylinder description='unknown' />
   <divecomputer model='Shearwater Teric' deviceid='d205d984' diveid='68773239'>
   <depth max='209.184 m' mean='66.783 m' />
@@ -8299,7 +8299,7 @@
   </divecomputer>
 </dive>
 </trip>
-<trip date='2021-06-01' time='10:52:01' location='Fish Bowl'>
+<trip date='2021-06-01' time='10:52:01' location='Sint Maarten'>
 <dive sac='25.158 l/min' otu='6' cns='2%' divesiteid='bdc459fc' date='2021-06-01' time='10:52:01' duration='21:32 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Pam</buddy>
