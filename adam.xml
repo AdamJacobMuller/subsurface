@@ -5,13 +5,24 @@
 </settings>
 <divesites>
 <site uuid='1762e3bb' name='The Bridge' gps='18.021304 -63.113575'>
-  <geo cat='2' origin='2' value='Sint Maarten'/>
+  <geo cat='1' origin='0' value='Caribbean Sea'/>
+  <geo cat='2' origin='0' value='Sint Maarten'/>
+  <geo cat='3' origin='0'/>
+  <geo cat='5' origin='0' value='Beacon Hill'/>
+  <geo cat='6' origin='3' value='Beacon Hill'/>
 </site>
 <site uuid='51aca2c1' name='Divi Little Bay' gps='18.015174 -63.061432'>
-  <geo cat='2' origin='2' value='Sint Maarten'/>
+  <geo cat='1' origin='0' value='Caribbean Sea'/>
+  <geo cat='2' origin='0' value='Sint Maarten'/>
+  <geo cat='3' origin='0'/>
+  <geo cat='5' origin='0' value='Rabbit Hill'/>
+  <geo cat='6' origin='3' value='Rabbit Hill'/>
 </site>
 <site uuid='68c87bb4' name='Dutch Springs' gps='40.684500 -75.355600'>
-  <geo cat='2' origin='2' value='United States'/>
+  <geo cat='2' origin='0' value='United States'/>
+  <geo cat='3' origin='0' value='Pennsylvania'/>
+  <geo cat='5' origin='0' value='Steuben'/>
+  <geo cat='6' origin='3' value='Steuben'/>
 </site>
 <site uuid='8a8e00ff' name='Blue Grotto' gps='29.387892 -82.488716'>
   <geo cat='1' origin='0' value='Gulf Of Mexico'/>
@@ -23,12 +34,14 @@
 <site uuid='937e3fa7' name='Teigland' gps='17.991060 -63.059978'>
   <geo cat='1' origin='0' value='Caribbean Sea'/>
   <geo cat='2' origin='0' value='Sint Maarten'/>
+  <geo cat='3' origin='0'/>
   <geo cat='5' origin='0' value='Pointe Blanche, Upper Princes Quarter'/>
   <geo cat='6' origin='3' value='Pointe Blanche, Upper Princes Quarter'/>
 </site>
 <site uuid='bdc459fc' name='Fish Bowl' gps='17.992366 -63.044271'>
   <geo cat='1' origin='0' value='Caribbean Sea'/>
   <geo cat='2' origin='0' value='Sint Maarten'/>
+  <geo cat='3' origin='0'/>
   <geo cat='5' origin='0' value='Pointe Blanche, Upper Princes Quarter'/>
   <geo cat='6' origin='3' value='Pointe Blanche, Upper Princes Quarter'/>
 </site>
