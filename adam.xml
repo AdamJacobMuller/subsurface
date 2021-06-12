@@ -2950,6 +2950,7 @@
 <trip date='2020-02-18' time='11:25:11' location='Blue Grotto'>
 <dive sac='39.379 l/min' divesiteid='8a8e00ff' date='2020-02-18' time='11:25:11' duration='3:34 min'>
   <buddy>Diane</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='171.404 bar' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='534280b4'>
   <depth max='7.01 m' mean='4.802 m' />
@@ -3104,6 +3105,7 @@
 </dive>
 <dive sac='29.800 l/min' divesiteid='8a8e00ff' date='2020-02-18' time='11:33:56' duration='11:36 min'>
   <buddy>Diane</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='121.761 bar' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='bb5d28fe'>
   <depth max='9.662 m' mean='4.317 m' />
@@ -3499,6 +3501,7 @@
 </dive>
 <dive sac='33.557 l/min' divesiteid='8a8e00ff' date='2020-02-18' time='12:01:06' duration='5:46 min'>
   <buddy>Diane</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='7479ad89'>
   <depth max='4.724 m' mean='3.294 m' />
@@ -3720,6 +3723,7 @@
 </dive>
 <dive sac='32.022 l/min' divesiteid='8a8e00ff' date='2020-02-18' time='14:12:14' duration='8:36 min'>
   <buddy>Diane</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='3738e4c6'>
   <depth max='7.071 m' mean='3.57 m' />
@@ -4026,6 +4030,7 @@
 </dive>
 <dive sac='38.478 l/min' divesiteid='8a8e00ff' date='2020-02-18' time='14:27:12' duration='11:32 min'>
   <buddy>Diane</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='84.806 bar' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='dad9ba07'>
   <depth max='7.346 m' mean='4.433 m' />
@@ -4419,6 +4424,7 @@
 </dive>
 <dive sac='26.792 l/min' divesiteid='8a8e00ff' date='2020-02-18' time='14:58:44' duration='1:20 min'>
   <buddy>Diane</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='71.43 bar' />
   <divecomputer model='Shearwater Teric' deviceid='e87df7e6' diveid='922d8adf'>
   <depth max='6.767 m' mean='4.822 m' />
@@ -4509,6 +4515,7 @@
 <trip date='2020-02-19' time='13:03:00' location='KP Hole Park'>
 <dive sac='31.770 l/min' divesiteid='eca46e1c' date='2020-02-19' time='13:03:00' duration='6:34 min'>
   <buddy>Diane, Sharon</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='33.784 bar' />
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='26.2 bar' />
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='19.581 bar' />
@@ -4814,6 +4821,7 @@
 <trip date='2020-08-08' time='10:40:46' location='Dutch Springs'>
 <dive number='5' sac='28.310 l/min' divesiteid='68c87bb4' date='2020-08-08' time='10:40:46' duration='18:32 min'>
   <buddy>Diane, Safet</buddy>
+  <suit>3mm Henderson Full</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='138.033 bar' />
   <divecomputer model='Shearwater Teric' deviceid='d205d984' diveid='069f1ca3'>
   <depth max='7.894 m' mean='6.207 m' />
@@ -5708,6 +5716,7 @@
 </dive>
 <dive number='6' sac='24.728 l/min' divesiteid='68c87bb4' date='2020-08-08' time='14:25:44' duration='18:02 min'>
   <buddy>Diane, Safet</buddy>
+  <suit>3mm Henderson Full</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='158.717 bar' />
   <divecomputer model='Shearwater Teric' deviceid='d205d984' diveid='5bc1d7b5'>
   <depth max='8.077 m' mean='6.896 m' />
@@ -6566,6 +6575,7 @@
 </dive>
 <dive number='7' sac='27.061 l/min' divesiteid='68c87bb4' date='2020-08-08' time='15:06:31' duration='3:44 min'>
   <buddy>Diane, Safet</buddy>
+  <suit>3mm Henderson Full</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='142.17 bar' />
   <divecomputer model='Shearwater Teric' deviceid='d205d984' diveid='36826f7b'>
   <depth max='7.468 m' mean='5.128 m' />
@@ -6995,6 +7005,7 @@
 </dive>
 <dive number='8' sac='32.884 l/min' divesiteid='68c87bb4' date='2020-08-08' time='20:31:47' duration='20:06 min'>
   <buddy>Diane, Safet</buddy>
+  <suit>3mm Henderson Full</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='128.656 bar' />
   <divecomputer model='Shearwater Teric' deviceid='d205d984' diveid='bcd2720f'>
   <depth max='13.137 m' mean='6.706 m' />
@@ -7915,6 +7926,7 @@
 </dive>
 <dive number='9' sac='579.769 l/min' divesiteid='68c87bb4' date='2020-08-09' time='09:53:49' duration='2:40 min'>
   <buddy>Diane, Safet</buddy>
+  <suit>3mm Henderson Full</suit>
   <cylinder size='12.087 l' workpressure='237.318 bar' description='HP100' end='2.344 bar' />
   <divecomputer model='Shearwater Teric' deviceid='d205d984' diveid='214c50f0'>
   <depth max='10.607 m' mean='6.77 m' />
@@ -8303,6 +8315,7 @@
 <dive sac='25.158 l/min' otu='6' cns='2%' divesiteid='bdc459fc' date='2021-06-01' time='10:52:01' duration='21:32 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Pam</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' end='100.801 bar' />
   <weightsystem weight='10.886 kg' description='integrated' />
   <weightsystem weight='4.536 kg' description='belt' />
@@ -9385,6 +9398,7 @@
 <dive sac='17.106 l/min' otu='1' cns='2%' divesiteid='51aca2c1' date='2021-06-01' time='12:36:51' duration='47:18 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Pam</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' end='92.252 bar' />
   <weightsystem weight='10.886 kg' description='integrated' />
   <weightsystem weight='4.536 kg' description='belt' />
@@ -11151,6 +11165,7 @@
 <dive number='10' sac='32.786 l/min' otu='12' cns='4%' divesiteid='1762e3bb' date='2021-06-03' time='09:54:49' duration='28:52 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Pam</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' end='19.857 bar' />
   <weightsystem weight='10.886 kg' description='integrated' />
   <weightsystem weight='4.536 kg' description='belt' />
@@ -12296,6 +12311,7 @@
 <dive number='11' sac='22.068 l/min' otu='4' cns='6%' divesiteid='51aca2c1' date='2021-06-03' time='11:40:44' duration='48:48 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Pam</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' end='45.505 bar' />
   <weightsystem weight='10.886 kg' description='integrated' />
   <weightsystem weight='4.536 kg' description='belt' />
@@ -13909,6 +13925,7 @@
 <dive number='12' sac='24.561 l/min' otu='4' cns='4%' divesiteid='51aca2c1' date='2021-06-08' time='14:29:34' duration='42:12 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Sharon</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' end='44.126 bar' />
   <weightsystem weight='9.072 kg' description='integrated' />
   <weightsystem weight='6.35 kg' description='belt' />
@@ -15479,6 +15496,7 @@
 <dive number='13' sac='35.563 l/min' otu='13' cns='7%' divesiteid='1762e3bb' date='2021-06-08' time='15:58:25' duration='26:12 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Sharon</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' end='18.478 bar' />
   <weightsystem weight='9.072 kg' description='integrated' />
   <weightsystem weight='6.35 kg' description='belt' />
@@ -16587,6 +16605,7 @@
 <dive number='14' sac='38.131 l/min' otu='11' cns='4%' divesiteid='937e3fa7' date='2021-06-09' time='09:53:08' duration='18:56 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Sharon</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' end='42.334 bar' />
   <weightsystem weight='9.072 kg' description='integrated' />
   <weightsystem weight='6.35 kg' description='belt' />
@@ -17478,6 +17497,7 @@
 <dive number='15' sac='23.298 l/min' otu='4' cns='6%' divesiteid='51aca2c1' date='2021-06-09' time='11:10:14' duration='44:46 min'>
   <divemaster>Brett</divemaster>
   <buddy>Diane, Sharon</buddy>
+  <suit>3mm Henderson Shorty</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' o2='32.0%' />
   <weightsystem weight='9.072 kg' description='integrated' />
   <weightsystem weight='6.35 kg' description='belt' />
